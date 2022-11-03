@@ -33,3 +33,30 @@ In this we will perform the following steps
 
 Finding Missing/Null values
 Over 90% of values are missing in minimum pay column is because may companies dont provide a minimum pay when posting jobs.
+
+
+
+
+
+## Market Insight Analysis
+Exploratory data analysis findings
+Key Insights:
+1. Job postings are increasing in number.
+2. Data Engineers, Data Scientists, and Analysts are in demand!
+3. Tech industries need data science roles the most.
+4. Salaries are trending upward as expected.
+
+## Lets investigate the following
+
+* Correlation between skills and job title
+* Top industries and companies
+* Potential recommendations
+
+# Visualize and identify the following
+
+* Key findings to focus
+* Visualizations to share
+* Communication style
+
+From our selection of five job titles, there are 27,335 total applicants to jobs that require Tableau as a skill.
+
